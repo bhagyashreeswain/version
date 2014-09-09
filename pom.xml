@@ -3,12 +3,12 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.photon.phresco.archetypes</groupId>
     <artifactId>phresco-archetypes</artifactId>
-    <version>1.1.0-SNAPSHOT</version>
+    <version>3.3.1.16001</version>
     <scm>
         <connection>https://github.com/bhagyashreeswain/version.git</connection>
         <developerConnection>scm:git:https://github.com/bhagyashreeswain/version.git</developerConnection>
         <url>scm:git:https://github.com/bhagyashreeswain/version.git</url>
-      <tag>1.0.0</tag>
+      <tag>HEAD</tag>
   </scm>
     <name>phresco-angularjs-archetype</name>
     <packaging>war</packaging>
